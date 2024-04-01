@@ -1,6 +1,6 @@
 # Getting Started
 
-This project is an assigment 
+This project is a sophisticated search application built upon a robust Redux architecture, leveraging Redux store and actions to manage state effectively. Seamlessly integrating with the Wikipedia API, it provides immersive search experience. Upon entering a query, users are presented with comprehensive results sourced from Wikipedia, enabling them to access a wealth of information effortlessly.
 
 ## Available Scripts
 
