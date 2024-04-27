@@ -5,3 +5,8 @@
 
 # production
 /build
+
+./docker.compose.yaml
+./Dockerfile
+./nginx-main.conf
+./nginx-site.conf
